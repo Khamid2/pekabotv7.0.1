@@ -1,7 +1,7 @@
 {
   "name": "Khamid",
-  "version": "2.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "pekabot",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -52,10 +52,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheGetsuzoThunder"
+    "url": "git+https://github.com/Khamid2/pekabotv7.0.1"
   },
   "keywords": [
-    "Wasu"
+    "Pekabot"
   ],
   "author": "Khamid . 🇮🇩",
   "license": "ISC",
